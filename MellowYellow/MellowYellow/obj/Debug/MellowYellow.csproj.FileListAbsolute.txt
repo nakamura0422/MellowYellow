@@ -1,0 +1,14 @@
+c:\users\kuma\documents\visual studio 2015\Projects\MellowYellow\MellowYellow\bin\Debug\MellowYellow.exe.config
+c:\users\kuma\documents\visual studio 2015\Projects\MellowYellow\MellowYellow\bin\Debug\MellowYellow.exe
+c:\users\kuma\documents\visual studio 2015\Projects\MellowYellow\MellowYellow\bin\Debug\MellowYellow.pdb
+c:\users\kuma\documents\visual studio 2015\Projects\MellowYellow\MellowYellow\obj\Debug\MellowYellow.exe
+c:\users\kuma\documents\visual studio 2015\Projects\MellowYellow\MellowYellow\obj\Debug\MellowYellow.pdb
+C:\Users\NG.nakamura\Desktop\MellowYellow\MellowYellow\bin\Debug\MellowYellow.exe.config
+C:\Users\NG.nakamura\Desktop\MellowYellow\MellowYellow\obj\Debug\MellowYellow.exe
+C:\Users\NG.nakamura\Desktop\MellowYellow\MellowYellow\obj\Debug\MellowYellow.pdb
+C:\Users\NG.nakamura\Desktop\MellowYellow\MellowYellow\bin\Debug\MellowYellow.exe
+C:\Users\NG.nakamura\Desktop\MellowYellow\MellowYellow\bin\Debug\MellowYellow.pdb
+C:\Users\NG.nakamura\Desktop\MellowYellow\MellowYellow\obj\Debug\MellowYellow.csprojResolveAssemblyReference.cache
+C:\Users\NG.nakamura\Desktop\Github用\MellowYellow\MellowYellow\bin\Debug\MellowYellow.exe.config
+C:\Users\NG.nakamura\Desktop\Github用\MellowYellow\MellowYellow\obj\Debug\MellowYellow.exe
+C:\Users\NG.nakamura\Desktop\Github用\MellowYellow\MellowYellow\obj\Debug\MellowYellow.pdb
